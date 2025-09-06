@@ -1,3 +1,5 @@
+Oto Teknik Servis Yazılımı
+
 Canbus Teknik Servis Yazılımı ile servisinizde bulunan tüm iş, müşteri ve muhasebe süreçlerini kolay bir şekilde yönetebilirsiniz. Müşteri bilgileri, araç bilgileri, servis kayıtları, depo stok durumları gibi kritik süreçleri kolay bir şekilde raporlayıp yönetebilirsiniz.
 
 Otomotiv sektöründe faaliyet gösteren teknik servisler için geliştirilen Canbus Teknik Servis Yazılımı, servis süreçlerini dijitalleştirerek daha hızlı, daha verimli ve daha kontrollü bir işleyiş sunar. Araç kabulünden servis fişi oluşturmaya, yedek parça ve stok takibinden muhasebe yönetimine kadar tüm operasyonlarınızı tek bir platformdan kolayca yönetin. Karmaşık excel tabloları ve manuel kayıtlar artık geride kaldı. Canbus sayesinde araç giriş-çıkış takibini, müşteri iletişimini, hizmet geçmişini ve stok hareketlerini anlık olarak izleyebilir, iş gücünüzü optimize ederek hem zaman hem maliyet tasarrufu sağlayabilirsiniz.
